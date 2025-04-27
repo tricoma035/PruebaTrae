@@ -1,0 +1,1 @@
+print("¡Hola, este es el inicio de la aplicación básica PruebaTrae!")
